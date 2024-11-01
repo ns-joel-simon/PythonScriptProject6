@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Song 1",
+        "description": "About this song",
+        "duration": "2 mins",
+        "favorite": true,
+        "image": "C:/Users/user/Desktop/projectpictures/arrietty.jpg"
+    },
+    {
+        "title": "Song 2",
+        "description": "About this song",
+        "duration": "3 mins",
+        "favorite": false,
+        "image": "C:/Users/user/Desktop/projectpictures/arrietty.jpg"
+    }
+]
